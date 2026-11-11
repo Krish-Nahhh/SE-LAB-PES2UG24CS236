@@ -1,0 +1,7 @@
+__pycache__/
+.hypothesis/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+.vscode/
